@@ -8,7 +8,7 @@ from sklearn.model_selection import cross_val_score
 import matplotlib.pyplot as plt
 
 # 1. When each team does not have an ELO rating, give it a base ELO rating
-base_elo = 1600
+base_elo = 1750
 team_elos = {}
 team_stats = {}
 X = []
@@ -197,3 +197,4 @@ with open('dataset/new 22-23 result.csv', 'w') as f:
 
 pd = pd.read_csv('dataset/new 22-23 result.csv', header=0)
 print(pd)
+
