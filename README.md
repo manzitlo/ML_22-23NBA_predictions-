@@ -1,4 +1,4 @@
-# ML: Analyzed past matches and Elo ratings to predict the winning probability of each team
+# ML: Analyzed past matches to predict the winning probability of each team by using ELO function ratings
 
 In this project, I used statistical data from Basketball Reference.com. In this site, we could see the basic statistics of different players, teams, seasons and league games, such as points scored, fouls, wins and losses.
 
